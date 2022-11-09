@@ -26,7 +26,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## Wireframe 
-![Wireframe](/assets/images/Wireframe.png)
+# Wireframe do MiniProjecto 
+![Wireframe](/src/assets/images/Wireframe.png)
+
+# O MiniProjecto 
+![Wireframe](/src/assets/images/Screenshot.png)
+
 
 
